@@ -58,7 +58,6 @@
     margin-left: auto;
     justify-content: space-between;
     max-width: 30%;
-    display: inline-block;
     float: right;
     padding-right: 30px;
 }
@@ -92,7 +91,6 @@
     color: #f7f7f7;
     justify-content: space-between;
     max-width: 30%;
-    display: inline-block;
     float: left;
 }
 
